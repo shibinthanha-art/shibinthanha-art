@@ -9,8 +9,8 @@
 ---
 
 <!-- Profile Views & Social Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=thanhashibin&label=Profile+Views&color=0e75b6&style=for-the-badge)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanhashibin-7a26a0411)
+![Profile Views](https://komarev.com/ghpvc/?username=shibinthanha-art&label=Profile+Views&color=0e75b6&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shibinthanha-art-7a26a0411)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shibinthanha@gmail.com)
 
 </div>
@@ -70,13 +70,13 @@ available   : Open to freelance & collaborations 🤝
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thanhashibin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhashibin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shibinthanha-art&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibinthanha-art&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhashibin&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shibinthanha-art&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -84,7 +84,7 @@ available   : Open to freelance & collaborations 🤝
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thanhashibin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shibinthanha-art&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -92,7 +92,7 @@ available   : Open to freelance & collaborations 🤝
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thanhashibin&bg_color=0D1117&color=6AD3F7&line=0099FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shibinthanha-art&bg_color=0D1117&color=6AD3F7&line=0099FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -124,7 +124,7 @@ available   : Open to freelance & collaborations 🤝
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thanha%20Shibin-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thanhashibin-7a26a0411)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thanha%20Shibin-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shibinthanha-art-7a26a0411)
 [![Email](https://img.shields.io/badge/Email-shibinthanha%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shibinthanha@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Malappuram%2C%20Kerala-green?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Malappuram,Kerala)
 
